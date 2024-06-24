@@ -23,15 +23,15 @@
 //                                                                                            //
 //════════════════════════════════════════════════════════════════════════════════════════════//
 *                                                                 
-  * @project_name : Venocyber-Md
-   * @author : Venocyber Tech
-   * @youtube : https://www.youtube.com/@JASTINMTEWA-vn9pl
-   * @description : Venocyber-Md ,A Multi-functional whatsapp user bot.
+  * @project_name : ꜱᴩᴇᴇᴅ-ᴍᴅ 
+   * @author : ꜱᴩᴇᴇᴅ ᴛᴇᴄʜ
+   * @youtube : https://www.youtube.com/@speedtechil
+   * @description : ꜱᴩᴇᴇᴅ-ᴍᴅ ,A Multi-functional whatsapp user bot.
    * @version 2.0.0
 *
 * 
-   * Created By Venocyber Tech.
-   * © 2024 Venocyber-Md.
+   * Created By ᴍᴀʟᴠɪɴ-ᴋɪɴɢ.
+   * ©²⁰²⁴ ꜱᴩᴇᴇᴅ-ᴍᴅ.
 
 
 */

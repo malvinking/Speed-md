@@ -384,7 +384,7 @@ smd(
         formatp(os.totalmem() - os.freemem()) +
         "/" +
         formatp(os.totalmem()) +
-        "\n\n *🧑‍💻 :* ᴡᴀsɪᴍᴅ-ᴠ2\n\n" +
+        "\n\n *🧑‍💻 :* ꜱᴩᴇᴇᴅ-ᴍᴅ -ᴠ2\n\n" +
         readmore +
         "\n╭──❰ *ALL MENU* ❱\n│🏮 Lɪꜱᴛ\n│🏮 Cᴀᴛᴇɢᴏʀʏ\n│🏮 Hᴇʟᴘ\n│🏮 Aʟɪᴠᴇ\n│🏮 Uᴘᴛɪᴍᴇ\n│🏮 Wᴇᴀᴛʜᴇʀ\n│🏮 Lɪɴᴋ\n│🏮 Cᴘᴜ\n│🏮 Rᴇᴘᴏꜱɪᴛᴏʀʏ\n╰─────────────⦁"
       ).trim();
