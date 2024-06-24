@@ -1,4 +1,4 @@
-# PATCH SPEED ᴍᴅ ᴜᴘᴅᴀᴛᴇ 𝟷.𝟶.𝟻 ᴘᴀᴛᴄʜ
+# PATCH ꜱᴩᴇᴇᴅ ᴍᴅ ᴜᴘᴅᴀᴛᴇ 𝟷.𝟶.𝟻 ᴘᴀᴛᴄʜ
 ### ᴡʜᴀᴛ's ɴᴇᴡ?
 -----------------------------------
 1. *Session ID Not Connecting Error Fixed*
