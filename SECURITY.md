@@ -14,4 +14,4 @@ Please Use Node Version Higher to Get The Best Performance.
 ## Reporting a Vulnerability
 
 
-## powered by SPEED MD
+## powered by ꜱᴩᴇᴇᴅ-ᴍᴅ 

@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-SPEED-𝐌𝐃 ╠════ need support then ☞ https://wa.me//263780934873 ═════╣",
-  author: process.env.PACK_AUTHER || "SPEED",
+  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-ꜱᴩᴇᴇᴅ-ᴍᴅ ╠════ need support then ☞ https://wa.me//263780166288 ═════╣",
+  author: process.env.PACK_AUTHER || "ꜱᴩᴇᴇᴅ",
   packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "SPEED-𝐌𝐃",
-  ownername: process.env.OWNER_NAME || "MALVIN",
+  botname: process.env.BOT_NAME || "ꜱᴩᴇᴇᴅ-ᴍᴅ",
+  ownername: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
@@ -64,7 +64,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
-  LANG: (process.env.THEME || "SPEED").toUpperCase(),
+  LANG: (process.env.THEME || "ꜱᴩᴇᴇᴅ-ᴍᴅ").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = false;

@@ -15,5 +15,5 @@ const start = async () => {
 }
 start();
 /**
-SPEED TECH WHATSAPPP BOT
+ꜱᴩᴇᴇᴅ ᴛᴇᴄʜ WHATSAPPP ʙᴏᴛ
 **/

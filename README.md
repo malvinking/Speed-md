@@ -1,11 +1,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> Speed-𝗺𝗱 </h1> 
-<p align="center"> Introducing Speed-𝗺𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+<h1 align="center"> ꜱᴩᴇᴇᴅ-ᴍᴅ </h1> 
+<p align="center"> Introducing ꜱᴩᴇᴇᴅ-ᴍᴅ, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Speed tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+Malvin+King+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/malvinking)
+[![ꜱᴩᴇᴇᴅ ᴛᴇᴄʜ](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+Malvin+King+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/malvinking)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -22,7 +22,7 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+263780934873?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Speed-md+Repo" target="_blank">
+  <a href="https://wa.me/+263780934873?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+ꜱᴩᴇᴇᴅ-ᴍᴅ+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="Speed-md is free to use" href="https://github.com/malvinking/Speed-md" target="_blank">
@@ -36,7 +36,7 @@
 
 
 
-<p align="center"> Speed-𝗺𝗱 uses
+<p align="center"> ꜱᴩᴇᴇᴅ-ᴍᴅ uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -87,9 +87,9 @@
 
 
 
-<h3>Speed-md Stats</h3>
+<h3>ꜱᴩᴇᴇᴅ-ᴍᴅ Stats</h3>
 
-![Speed-md Stats](https://github-readme-stats.vercel.app/api/pin/?username=malvinking&repo=speed-md&show_owner=true&theme=dark)
+![ꜱᴩᴇᴇᴅ-ᴍᴅ    Stats](https://github-readme-stats.vercel.app/api/pin/?username=malvinking&repo=speed-md&show_owner=true&theme=dark)
 
 
     
@@ -103,7 +103,7 @@ if scan qr is not working please try using pairing code i am currently working o
 <a href="[https://speed-md-qr.onrender.com](https://malvinking2-16a91e661f90.herokuapp.com/wasiqr)"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 2.  [`PARING CODE`](https://speed-session-d10e54b1349a.herokuapp.com/pair). Tap here to open Speed app
     <br>
-<a href="https://speed-session-d10e54b1349a.herokuapp.com/"><img title="app 𝙨𝙚𝙧𝙫𝙚𝙧 " src="https://img.shields.io/badge/SPEED APP-h?color=green&style=for-the-badge&logo=msi"></a>
+<a href="https://speed-session-d10e54b1349a.herokuapp.com/"><img title="app 𝙨𝙚𝙧𝙫𝙚𝙧 " src="https://img.shields.io/badge/ꜱᴩᴇᴇᴅ-ᴍᴅ    APP-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
@@ -140,7 +140,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 </h2>
    
 ## 
-- *Speed-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *ꜱᴩᴇᴇᴅ-ᴍᴅ is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Speed-Md at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/malvinking/Speed-md)
@@ -162,7 +162,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[ʜᴏᴡ ᴛᴏ sᴇᴛᴜᴘ `SPEED 𝗠𝗗` 𝑓𝑟𝑒𝑒 𝑡𝑢𝑡𝑜𝑟𝑖𝑎l `𝚌𝚕𝚒𝚌𝚔 𝚑𝚎𝚛𝚎`](https://www.youtube.com/@speedtechi)
+[ʜᴏᴡ ᴛᴏ sᴇᴛᴜᴘ `ꜱᴩᴇᴇᴅ-ᴍᴅ` 𝑓𝑟𝑒𝑒 𝑡𝑢𝑡𝑜𝑟𝑖𝑎l `𝚌𝚕𝚒𝚌𝚔 𝚑𝚎𝚛𝚎`](https://www.youtube.com/@speedtechi)
  
   ##
   
