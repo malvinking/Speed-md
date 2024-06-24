@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting Speed-md!"
+echo "Starting ꜱᴩᴇᴇᴅ-ᴍᴅ !"
 node .
 done
